@@ -43,7 +43,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 ✓Developing data models.
 
 3. Development
-✓Writing the actual code based on the design specifications.
+✓Writing the actual code based on the design  specifications.
 ✓Building the software components.
 ✓Integrating different parts of the software.
 
