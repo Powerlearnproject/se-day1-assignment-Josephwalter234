@@ -1,5 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15566539&assignment_repo_type=AssignmentRepo)
-# SE_Day1
+
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -131,44 +130,6 @@ Experimentation: Developers can try new features without affecting the main code
 History: Tracks changes over time, making it easier to identify the cause of issues.
 Examples: Git, SVN, Mercurial.
 
-In essence, IDEs and VCS are complementary tools that significantly enhance software development efficiency and quality. IDEs provide a rich environment for coding, while VCS ensures that code changes are managed effectively. Together, they form the foundation for modern software development practices.
-
-Would you like to learn more about a specific IDE or VCS?
-
-
-Sources and related content
-github.com
-github.com
-What is an IDE? - Integrated Development Environment Explained - AWS
-
-aws.amazon.com
-
-What is an IDE? - Integrated Development Environment Explained - AWS - Amazon
-
-aws.amazon.com
-
-The translator program that converts code in high level language into machine code line by line is called
-
-www.toppr.com
-
-What is Debugging? - Debugging Explained - AWS
-
-aws.amazon.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy & Gemini Apps
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
@@ -178,8 +139,6 @@ Unit testing focuses on the smallest building blocks of software.  
 Integration testing examines how these building blocks fit together.   
 System testing evaluates the complete system.   
 Acceptance testing determines if the software meets user and business needs.   
-
-
 
 #Part 2: Introduction to AI and Prompt Engineering
 
